@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "118726604007",
+    "project_id": "tago-7f73f",
+    "storage_bucket": "tago-7f73f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118726604007:android:d7448e93b14a64ba679e42",
+        "android_client_info": {
+          "package_name": "com.tago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118726604007-rtm9pap4jq77i7mpf4se3i2ct9ur4ueo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tago",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "118726604007-fi55pibd1rj8r5l6dlae3dvf6972bols.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClEcNmtql88HFZ6-7I0oPFEvEuXcxocIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118726604007-fi55pibd1rj8r5l6dlae3dvf6972bols.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
